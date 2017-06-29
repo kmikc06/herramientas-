@@ -8,9 +8,9 @@ RiseUp es una organización colectiva dedicada a proveer servicios de correo ele
 https://securityinabox.org/es/guide/riseup/web/
 
 #### Características
-	Es un servicio gratuito
-	Brinda la posibilidad de acceder a tu cuenta de correo a través de Internet o mediante un programa de correo.
-	Seguridad a través de HTTPS y encriptación de mensajes y datos almacenados
-	Permite crear cuentas anónimas
-	Espacio de mailbox limitado
-	Libre de publicidad
+*	Es un servicio gratuito
+*	Brinda la posibilidad de acceder a tu cuenta de correo a través de Internet o mediante un programa de correo.
+*	Seguridad a través de HTTPS y encriptación de mensajes y datos almacenados
+*	Permite crear cuentas anónimas
+*	Espacio de mailbox limitado
+*	Libre de publicidad
