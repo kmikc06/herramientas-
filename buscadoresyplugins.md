@@ -36,7 +36,8 @@ Es un buscador desarrollado por Ixquick pero con una URL más fácil de recordar
 *	Ofrece un proxy gratuito que permite una navegación anónima
 
 
-### Herramientas útiles y plug ins
+### Herramientas Utiles y Plug ins
+
 #### •	HTTPS EVERYWHERE
 Es una extensión (plug in) para el navegador que garantiza que la comunicación con muchos sitios web principales esté encriptada.
 *	Activa la inscripción HTTPS automáticamente a todas las páginas que  soporten el HTTPS
@@ -50,7 +51,7 @@ Esta herramienta fue desarrollada para bloquear cualquier código malicioso, que
 *	Bloquea la ejecución de Javascript, Java, Flash, Silverlight, y otros plugins y contenidos de scripts
 *	Servicio gratuito
 
-####  •	ADNAUSEAM
+#### •	ADNAUSEAM
 Es una extensión de navegador gratuita diseñada para ocultar los datos de navegación y proteger a los usuarios del seguimiento mediante redes de publicidad. Al mismo tiempo, AdNauseam sirve como un medio de amplificar el descontento de los usuarios con las redes publicitarias que desprecian la privacidad y facilitan agendas de vigilancia masiva.
 *	Automatiza los clicks silenciosamente en todas las pestañas de anuncios.
 *	Convierte en inútil la vigilancia y la focalización y el rastreo a través de la publicidad dado que los datos recogidos son demasiado variados.
