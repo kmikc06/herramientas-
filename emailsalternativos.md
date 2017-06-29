@@ -14,3 +14,23 @@ https://securityinabox.org/es/guide/riseup/web/
 *	Permite crear cuentas anónimas
 *	Espacio de mailbox limitado
 *	Libre de publicidad
+
+
+### •	ESPIV
+
+Este servicio es manejado por un colectivo autónomo de desarrolladores activistas en Grecia.  Para tener una cuenta en Espiv debes solicitarla directamente a través de un formulario.
+#### Características
+*	Seguridad a través de HTTPS y encriptación de mensajes y datos almacenados
+*	Libre de publicidad
+*	No guarda tu dirección IP ni otros rastros digitales.
+
+### •	POSTEO
+Es un proveedor independiente de correo electrónico con base en Alemania. Además de las características de seguridad es un servidor que le apuesta a la sustentabilidad, utilizando energías verdes y hardwares eficientes.
+#### Características
+*	Servicio con costo (1€ al mes)
+*	Seguridad a través de HTTPS y encriptación de mensajes y opción para encriptar datos almacenados
+*	Libre de publicidad
+*	Mailbox con espacio de 2GB
+*	No guarda tu dirección IP ni otros rastros digitales.
+
+
