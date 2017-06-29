@@ -1,4 +1,4 @@
-## BUSCADORES ALTERNATIVOS SEGUROS
+## Buscadores Alternativos Seguros
 
 La privacidad siempre ha sido uno de los temas más polémicos de Internet. Cuando hablamos de datos personales, es muy importante tener en cuenta que Google y Microsoft (principales navegadores en España) son empresas privadas que guardan y usan esos datos.
 En principio, los datos son utilizados con fines lícitos y “deseables” (como aproximar los resultados de búsqueda a tus gustos), pero también pueden llegar a ser solicitados legalmente, vendidos a otras empresas, hackeados o robados, y por consiguiente, llegar a manos inadecuadas.
@@ -36,22 +36,22 @@ Es un buscador desarrollado por Ixquick pero con una URL más fácil de recordar
 *	Ofrece un proxy gratuito que permite una navegación anónima
 
 
-Herramientas útiles y plug ins
-•	HTTPS Everywhere
+### Herramientas útiles y plug ins
+#### •	HTTPS EVERYWHERE
 Es una extensión (plug in) para el navegador que garantiza que la comunicación con muchos sitios web principales esté encriptada.
-	Activa la inscripción HTTPS automáticamente a todas las páginas que  soporten el HTTPS
-	Servicio gratuito
-	Fácil de instalar y configurar
-	Se pueda instalar en Firefox, Chrome y Opera
+*	Activa la inscripción HTTPS automáticamente a todas las páginas que  soporten el HTTPS
+*	Servicio gratuito
+*	Fácil de instalar y configurar
+*	Se pueda instalar en Firefox, Chrome y Opera
 
-•	NonScript
+#### •	NONSCRIPT
 Esta herramienta fue desarrollada para bloquear cualquier código malicioso, que podría estar incrustado en sitios web una vez que accedes a alguna de estas páginas
-	Se puede instalar para Firefox
-	Bloquea la ejecución de Javascript, Java, Flash, Silverlight, y otros plugins y contenidos de scripts
-	Servicio gratuito
+*	Se puede instalar para Firefox
+*	Bloquea la ejecución de Javascript, Java, Flash, Silverlight, y otros plugins y contenidos de scripts
+*	Servicio gratuito
 
-•	AdNauseam
+####  •	ADNAUSEAM
 Es una extensión de navegador gratuita diseñada para ocultar los datos de navegación y proteger a los usuarios del seguimiento mediante redes de publicidad. Al mismo tiempo, AdNauseam sirve como un medio de amplificar el descontento de los usuarios con las redes publicitarias que desprecian la privacidad y facilitan agendas de vigilancia masiva.
-	Automatiza los clicks silenciosamente en todas las pestañas de anuncios.
-	Convierte en inútil la vigilancia y la focalización y el rastreo a través de la publicidad dado que los datos recogidos son demasiado variados.
+*	Automatiza los clicks silenciosamente en todas las pestañas de anuncios.
+*	Convierte en inútil la vigilancia y la focalización y el rastreo a través de la publicidad dado que los datos recogidos son demasiado variados.
 
